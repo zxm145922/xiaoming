@@ -1,0 +1,60 @@
+.login{
+    height: 634px;
+    width: 100%;
+    .login_box{
+        height: 486px;
+        width: 1004px;
+        margin-top:63px;
+        margin-left:132px; 
+        background:palevioletred;
+        h3{
+            height: 47px;
+            font-weight: normal;
+            width: 1004px;
+            font-size: 19px;
+            color: #a29999;
+            line-height: 47px;
+            border-bottom: 1px solid #cccccc;
+        }
+        .left{
+            float: left;
+            width: 501px;
+            margin-top:36px;
+        }
+        .right{
+            float: left;
+            height: 240px;
+            width: 400px;
+            margin-top:112px;
+            margin-left:103px;
+            border: 1px solid red;
+            dl{
+                dt{
+                    float: left;
+                    width:54px;
+                    height: 270px;
+                    p{
+                        color: #999999;
+                        width:54px; 
+                        line-height: 40px;
+                        margin-bottom:28px;
+                        font-size: 14px;
+                        text-align: right;
+                    }
+                }
+                dd{
+                    padding-left:42px;
+                    width:307px;
+                    height: 270px;
+                    float: left;
+                    input{
+                        width: 300px;
+                        height: 40px;
+                        border: 1px solid #cccccc;
+                        margin-bottom:28px;d 
+                    }
+                }
+            }
+        }
+    }
+}
